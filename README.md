@@ -46,7 +46,7 @@ This is a desktop application built with Python and Tkinter for managing product
 CREATE DATABASE ecommerce_db;
 USE ecommerce_db;
 
-b. Create Tables
+## Create Tables
 The application expects categories and products tables. Execute the following SQL commands to create them:
 
 ---
