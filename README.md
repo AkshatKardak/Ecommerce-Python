@@ -51,16 +51,16 @@ The application expects categories and products tables. Execute the following SQ
 
 ---
 
--- Create categories table
+## Create categories table
 
 CREATE TABLE categories (
  - category_id INT AUTO_INCREMENT PRIMARY KEY,
   - name VARCHAR(255) NOT NULL UNIQUE
-);
+)
 
 ---
 
--- Create products table
+## Create products table
 CREATE TABLE products (
 - product_id INT AUTO_INCREMENT PRIMARY KEY,
 - name VARCHAR(255) NOT NULL UNIQUE,
