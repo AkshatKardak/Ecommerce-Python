@@ -78,7 +78,7 @@ DB_CONFIG = {
   -  'host': 'localhost',
   - 'database': 'ecommerce_db', # Ensure this matches your database name
   - 'user': 'root',             # Your MySQL username
-  -  'password': 'Akshat9091'    # Your MySQL password
+  -  'password': '----'    # Your MySQL password
 }
 
 ---
@@ -94,3 +94,4 @@ cd Ecommerce-Python
 
 ## Contributors
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
